@@ -39,7 +39,7 @@ int main() {
 	
 		}
 	
-	
+	//////sonra devam et
 
 	
 	return 0;
